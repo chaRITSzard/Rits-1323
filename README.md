@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rits-1323&label=Profile%20views&color=0e75b6&style=flat" alt="rits-1323" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rits-1323" alt="rits-1323" /></a> </p>
 
 - 🔭 I’m currently working on [Petroid](https://github.com/Rits-1323/Petroid)
 
