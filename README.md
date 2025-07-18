@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rits-1323&label=Profile%20views&color=0e75b6&style=flat" alt="rits-1323" /> </p>
 
 
-- 🔭 I’m currently working on [Petroid](https://github.com/Rits-1323/Petroid)
+- 🔭 I’m currently working on [GardenScan](https://github.com/Rits-1323/GardenScan)
 
 - 🌱 I’m currently learning **the connection of Computer Science and Mathematics**
 
